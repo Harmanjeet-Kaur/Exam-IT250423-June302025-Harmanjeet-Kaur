@@ -22,3 +22,18 @@
 3. **Website 3: Trendmicro**
    - https://cleanerone.trendmicro.com/blog/check-for-ram-on-windows-10-and-11/#:~:text=Here's%20how%20to%20do%20it:%20*%20Step,startup)%20and%20proceed%20with%20the%20diagnostic%20test. 
    - The website provides instructions on how to check the amount of RAM in your Windows 10 or 11 PC. It explains several methods, including using Task Manager, System Information, or the DirectX Diagnostic Tool, to view detailed RAM information and troubleshoot performance issues.
+
+## PartC General Application Troubleshooting Resources
+## General Application Troubleshooting Resources
+
+1. **Website 1: Microsoft Troubleshooter**
+   - https://support.microsoft.com/en-us/windows/repair-apps-and-programs-in-windows-e90eefe4-d0a2-7c1b-dd59-949a9030f317
+   - This official Microsoft resource provides general troubleshooting for Windows applications. It includes steps to repair or reset apps, which can be helpful for applications like Microsoft Excel.
+
+2. **Website 2: asurion**
+   - https://www.asurion.com/connect/tech-tips/fix-windows-10-apps-wont-open/
+   - The article from Asurion explains how to troubleshoot Windows 10 apps that won’t open. the article provides clear, step-by-step solutions to help resolve issues with apps not opening in Windows 10.
+
+3. **Website 3: windowstechies**
+   - https://windowstechies.com/-/en/support/?error=Windows%20Application%20Error&gad_source=5&gad_campaignid=20430450463&gclid=EAIaIQobChMIua3en72ZjgMVY0b_AR1ltQytEAAYAiAAEgLckfD_BwE
+  - Easy Fix for Windows Application Error: Troubleshooting Steps for a Smooth Experience on Your PC
