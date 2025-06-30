@@ -37,3 +37,13 @@
 3. **Website 3: windowstechies**
    - https://windowstechies.com/-/en/support/?error=Windows%20Application%20Error&gad_source=5&gad_campaignid=20430450463&gclid=EAIaIQobChMIua3en72ZjgMVY0b_AR1ltQytEAAYAiAAEgLckfD_BwE
   - Easy Fix for Windows Application Error: Troubleshooting Steps for a Smooth Experience on Your PC
+
+# Question 2
+- To address the user's difficulty in finding files with Windows File Explorer, focus on guiding them through the tool's search functionality and organization features. Providing them with tutorials from reputable sources like Microsoft Support, YouTube, and a general Windows documentation site can be helpful. 
+- Here are three resources that offer tutorials on Windows File Explorer: 
+ - 1. Microsoft Support's "Find your files in Windows" page:
+This official Microsoft page provides a comprehensive guide to finding files using File Explorer, including using the search bar, browsing by location, and utilizing the "This PC" view.
+ - 2. YouTube video on finding recent files:
+- A video tutorial can be very helpful for visual learners. This YouTube video demonstrates how to find recently opened files and how to organize the view based on date and time.
+ - 3. www.dariawan.com tutorial on Windows file and folder management:
+- This website provides a detailed explanation of how to manage files and folders in Windows, including using File Explorer to locate files, troubleshoot access issues, and understand file permissions.
